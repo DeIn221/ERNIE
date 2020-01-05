@@ -1,4 +1,4 @@
-[English](./README.md) | 简体aa中文
+[English](./README.md) | 简体中文
 
 ## ERNIE 2.0: A Continual Pre-training Framework for Language Understanding
 
